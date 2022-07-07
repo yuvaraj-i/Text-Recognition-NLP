@@ -39,8 +39,20 @@
     </dependency>
     <dependency>
       <groupId>org.scalanlp</groupId>
-      <artifactId>epic_2.12</artifactId>
+      <artifactId>epic_2.11</artifactId>
       <version>0.5.1</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.scalanlp/epic-pos-en -->
+    <dependency>
+      <groupId>org.scalanlp</groupId>
+      <artifactId>epic-pos-en_2.11</artifactId>
+      <version>2017.3.10</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.scalanlp/epic-parser-en-span -->
+    <dependency>
+      <groupId>org.scalanlp</groupId>
+      <artifactId>epic-parser-en-span_2.11</artifactId>
+      <version>2015.1.25</version>
     </dependency>
   </dependencies>
 
